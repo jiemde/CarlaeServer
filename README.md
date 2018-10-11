@@ -1,4 +1,4 @@
-Carlae is a simple HTTP Server for the [PyCom line of WiFi enabled devices](https://pycom.io/solutions/hardware/)
+CarlaeServer is a simple HTTP Server for the [PyCom line of WiFi enabled devices](https://pycom.io/solutions/hardware/)
 
 To use, upload HTTPServer to tyour PyCom system and use the http_daemon function in your main.py
 
